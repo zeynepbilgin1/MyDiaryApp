@@ -19,10 +19,7 @@ I created this project to understand the fundamentals of Android Studio and mobi
 
 
 ## Getting Started
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
-    ```
+1.  Clone the repository
 2.  Open in **Android Studio**.
 3.  Build and Run on an Emulator or Physical Device.
 
