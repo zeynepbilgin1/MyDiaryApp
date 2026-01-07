@@ -17,10 +17,10 @@ I created this project to understand the fundamentals of Android Studio and mobi
 
 ## Screenshots
 <p float="left">
-  <img src="screenshots/1.png" width="200" />
-  <img src="screenshots/2.png" width="200" />
-  <img src="screenshots/3.png" width="200" />
-  <img src="screenshots/4.png" width="200" />
+  <img src="screenshots/1.jpeg" width="200" />
+  <img src="screenshots/2.jpeg" width="200" />
+  <img src="screenshots/3.jpeg" width="200" />
+  <img src="screenshots/4.jpeg" width="200" />
 </p>
 
 ## Getting Started
