@@ -24,9 +24,9 @@ I created this project to understand the fundamentals of Android Studio and mobi
 </p>
 
 ## Getting Started
-1.  Clone the repository
-2.  Open in **Android Studio**.
+1.  Clone the repository.
+2.  Open in Android Studio.
 3.  Build and Run on an Emulator or Physical Device.
 
 ---
-*Developed by Feyza Zeynep Bilgin*
+*Developed by Feyza Zeynep Bilgin.*
